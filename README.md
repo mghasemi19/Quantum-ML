@@ -1,2 +1,2 @@
 # Quantum-ML
-Tutorial on Quantum Computationa and Quantum Machine Learning
+Tutorial on Quantum Computation and Quantum Machine Learning
