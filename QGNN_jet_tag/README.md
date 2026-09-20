@@ -1,4 +1,6 @@
 # Paper-inspired boosted-jet quantum graph neural network
+<img width="1448" height="1086" alt="project_img" src="https://github.com/user-attachments/assets/338f36ef-154c-4cd6-8bfb-ba045599809c" />
+
 
 **Status:** An implementation scaffold and independently checkable architecture,
 **not** the authors' implementation or a verified reproduction of their AUCs.
