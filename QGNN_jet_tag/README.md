@@ -1,4 +1,4 @@
-# Paper-inspired boosted-jet quantum graph neural network
+# Boosted-jet quantum graph neural network
 <img width="1448" height="1086" alt="project_img" src="https://github.com/user-attachments/assets/338f36ef-154c-4cd6-8bfb-ba045599809c" />
 
 <img width="1448" height="1086" alt="project_img2" src="https://github.com/user-attachments/assets/d7db6c22-21fb-4b74-8ae6-0d32b4f6c64f" />
