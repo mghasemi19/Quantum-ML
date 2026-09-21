@@ -1,5 +1,8 @@
 # H -> bb vs QCD: hybrid quantum-attention Transformer encoder
 
+<img width="1448" height="1086" alt="QTransformer" src="https://github.com/user-attachments/assets/11ce8be4-3646-41ec-85f5-8957bad0b4cd" />
+
+
 An end-to-end **educational, runnable** jet-constituent classifier inspired by
 Smaldone et al., *A Hybrid Transformer Architecture with a Quantized Self-Attention
 Mechanism Applied to Molecular Generation* (arXiv:2502.19214v2).
