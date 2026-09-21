@@ -2,14 +2,8 @@
 
 An end-to-end **educational, runnable** jet-constituent classifier inspired by
 Smaldone et al., *A Hybrid Transformer Architecture with a Quantized Self-Attention
-Mechanism Applied to Molecular Generation* (arXiv:2502.19214v2), specifically
-Sec. II.B, Eqs. 6-14 and Figs. 3-5. This is an **adaptation**, not a replication
-of their molecular-generation experiments or published physics measurements.
+Mechanism Applied to Molecular Generation* (arXiv:2502.19214v2).
 
-**Interpretation warning:** The included toy jets are hand-crafted two-prong / one-prong
-point-cloud distributions, not generated LHC events or detector simulation.
-Any output AUC is a software smoke-test metric, NOT an estimate of realistic
-Higgs-tagging performance. The paper neither studies jets nor reports Hbb-vs-QCD results.
 
 ## 1. Quick start
 
