@@ -1,6 +1,6 @@
 # H -> bb vs QCD: hybrid quantum-attention Transformer encoder
 
-<img width="1448" height="1086" alt="QTransformer" src="https://github.com/user-attachments/assets/11ce8be4-3646-41ec-85f5-8957bad0b4cd" />
+<img width="1195" height="896" alt="QTransformer_img" src="https://github.com/user-attachments/assets/c15847a1-03d1-4774-8670-f390de344787" />
 
 
 An end-to-end **educational, runnable** jet-constituent classifier inspired by
